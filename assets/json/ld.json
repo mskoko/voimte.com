@@ -1,0 +1,7 @@
+{
+	"@context": "http://schema.org",
+	"@id": "https://voimte.com/#webpage",
+	"@type": "WebPage",
+	"url": "https://voimte.com/",
+	"name": "Voimte.com"
+}
